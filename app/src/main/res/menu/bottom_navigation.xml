@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_inform"
+        android:enabled="true"
+        android:title="주변 가격 정보"
+        />
+    <item
+        android:id="@+id/action_nears"
+        android:enabled="true"
+        android:title="내 주변 가게" />
+    <item
+        android:id="@+id/action_graph"
+        android:enabled="true"
+        android:title="시세 변동 추이" />
+    <item
+        android:id="@+id/action_trade"
+        android:enabled="true"
+        android:title="직거래" />
+    <item
+        android:id="@+id/action_camera"
+        android:enabled="true"
+        android:title="이력제 번호" />
+
+</menu>
